@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Express 2010 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autosmania", "Autosmania\Autosmania.csproj", "{FE39E75E-D31C-4578-BF1F-620155AE1D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE39E75E-D31C-4578-BF1F-620155AE1D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE39E75E-D31C-4578-BF1F-620155AE1D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE39E75E-D31C-4578-BF1F-620155AE1D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE39E75E-D31C-4578-BF1F-620155AE1D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
